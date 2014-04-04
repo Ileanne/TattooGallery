@@ -1,0 +1,35 @@
+name: Binding of Flowers
+image: dotstolines1.jpg
+artist: Chaim Machlev (DotsToLines)
+location: Alemania
+type: Geometrical, Flowers
+description: Flor que se formal al unir los dos 
+antebrazos.
+
+name: brushstroke
+image: dotstolines2.jpg
+artist: Chaim Machlev (DotsToLines)
+location: Alemania
+type: Lines
+description: Líneas en la espalda de diferentes grosores. 
+
+name: Fractal Flower
+image: dotstolines3.jpg
+artist: Chaim Machlev (DotsToLines)
+location: Alemania
+type: Fractal, Flowers
+description: Flor creada por figuras geométricas que emulan un fractal.
+
+name: Figures
+image: dotstolines4.jpg
+artist: Chaim Machlev (DotsToLines)
+location: Alemania
+type: Fractal
+description: Figuras en el brazo y hombro las cuales tiene patrones de fractales.
+
+name: Flower With Lines
+image: dotstolines5.jpg
+artist: Chaim Machlev (DotsToLines)
+location: Alemania
+type: Flowers, Lines
+description: Flor con líneas gruesas en el brazo.

@@ -1,0 +1,34 @@
+name: Bull
+image: ienlevin1.jpg
+artist: Ien Levin
+location: Ucrania
+type: Geometrical
+description: Toro realizado con figuras geométricas en líneas delgadas de color negro.
+
+name:  flower With Maze
+image: ienlevin2.jpg
+artist: Ien Levin
+location: Ucrania
+type: Flower, Geometrical
+description: Flor con laberinto que sale de las raíces en la espalda.
+
+name: Trojan Horse
+image: ienlevin3.jpg
+artist: Ien Levin
+location: Ucrania
+type: Geometrical
+description: Cabeza de caballo de Troya en color negro.
+
+name: Skull With Lines
+image: ienlevin4.jpg
+artist: Ien Levin
+location: Ucrania
+type: Skulls
+description: Calavera con líneas las cuales parecen que realizan un corte.
+
+name: Rose
+image: ienlevin5.jpg
+artist: Ien Levin
+location: Ucrania
+type: Flowers
+description: Flor en color negro con sombras grises. 

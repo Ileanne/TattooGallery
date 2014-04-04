@@ -1,0 +1,34 @@
+name: Laurent Flowers
+image: davidhale1.jpg
+artist: David Hale
+location: Georgia
+type: Flowers
+description: Arreglo de flores en color negro en el brazo.
+
+name: Skull
+image: davidhale2.jpg
+artist: David Hale
+location: Georgia
+type: Skulls
+description: Calavera con patrones ornamentales. 
+
+name: Peter Wolf
+image: davidhale3.jpg
+artist: David Hale
+location: Georgia
+type:Animals
+description: Lobo en antebrazo en colores negros.
+
+name: Sterling Rooster
+image: davidhale4.jpg
+artist: David Hale
+location: Georgia
+type:Animals
+description: Gallo sosteniendo una flor. 
+
+name: Tal Salmon
+image: davidhale5.jpg
+artist: David Hale
+location: Georgia
+type:Animals
+description: Salmon con colmillos.  

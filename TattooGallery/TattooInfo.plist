@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Skull With Flowers</string>
+		<key>image</key>
+		<string>alicecarrier1.jpg</string>
+		<key>artist</key>
+		<string>Alice Carrier</string>
+		<key>location</key>
+		<string>Oregon</string>
+		<key>type</key>
+		<string>Skulls</string>
+		<key>description</key>
+		<string>Calavera con flores en la pierna.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Green Flower</string>
+		<key>image</key>
+		<string>alicecarrier2.jpg</string>
+		<key>artist</key>
+		<string>Alice Carrier</string>
+		<key>location</key>
+		<string>Oregon</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Flor verde en el brazo con tonos amarillos.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Green Fly</string>
+		<key>image</key>
+		<string>alicecarrier3.jpg</string>
+		<key>artist</key>
+		<string>Alice Carrier</string>
+		<key>location</key>
+		<string>Oregon</string>
+		<key>type</key>
+		<string>Animals</string>
+		<key>description</key>
+		<string>Mosca con tonos verdes y grises.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Red Rose</string>
+		<key>image</key>
+		<string>alicecarrier4.jpg</string>
+		<key>artist</key>
+		<string>Alice Carrier</string>
+		<key>location</key>
+		<string>Oregon</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Rosa roja con mariposa amarilla al lado.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dragonfly</string>
+		<key>image</key>
+		<string>alicecarrier5.jpg</string>
+		<key>artist</key>
+		<string>Alice Carrier</string>
+		<key>location</key>
+		<string>Oregon</string>
+		<key>type</key>
+		<string>Animals</string>
+		<key>description</key>
+		<string>Libélula en tonos grises en el brazo.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Binding of Flowers</string>
+		<key>image</key>
+		<string>dotstolines1.jpg</string>
+		<key>artist</key>
+		<string>Chaim Machlev (DotsToLines)</string>
+		<key>location</key>
+		<string>Alemania</string>
+		<key>type</key>
+		<string>Geometrical</string>
+		<key>description</key>
+		<string>Flor que se formal al unir los dos antebrazos.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Brushstroke</string>
+		<key>image</key>
+		<string>dotstolines2.jpg</string>
+		<key>artist</key>
+		<string>Chaim Machlev (DotsToLines)</string>
+		<key>location</key>
+		<string>Alemania</string>
+		<key>type</key>
+		<string>Lines</string>
+		<key>description</key>
+		<string>Líneas en la espalda de diferentes grosores. </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fractal Flower</string>
+		<key>image</key>
+		<string>dotstolines3.jpg</string>
+		<key>artist</key>
+		<string>Chaim Machlev (DotsToLines)</string>
+		<key>location</key>
+		<string>Alemania</string>
+		<key>type</key>
+		<string>Fractal</string>
+		<key>description</key>
+		<string>Flor creada por figuras geométricas que emulan un fractal.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Figures</string>
+		<key>image</key>
+		<string>dotstolines4.jpg</string>
+		<key>artist</key>
+		<string>Chaim Machlev (DotsToLines)</string>
+		<key>location</key>
+		<string>Alemania</string>
+		<key>type</key>
+		<string>Fractal</string>
+		<key>description</key>
+		<string>Figuras en el brazo y hombro las cuales tiene patrones de fractales.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Flower With Lines</string>
+		<key>image</key>
+		<string>dotstolines5.jpg</string>
+		<key>artist</key>
+		<string>Chaim Machlev (DotsToLines)</string>
+		<key>location</key>
+		<string>Alemania</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Flor con líneas gruesas en el brazo.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Laurent Flowers</string>
+		<key>image</key>
+		<string>davidhale1.jpg</string>
+		<key>artist</key>
+		<string>David Hale</string>
+		<key>location</key>
+		<string>Georgia</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Arreglo de flores en color negro en el brazo.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Skull</string>
+		<key>image</key>
+		<string>davidhale2.jpg</string>
+		<key>artist</key>
+		<string>David Hale</string>
+		<key>location</key>
+		<string>Georgia</string>
+		<key>type</key>
+		<string>Skulls</string>
+		<key>description</key>
+		<string>Calavera con patrones ornamentales. </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Peter Wolf</string>
+		<key>image</key>
+		<string>davidhale3.jpg</string>
+		<key>artist</key>
+		<string>David Hale</string>
+		<key>location</key>
+		<string>Georgia</string>
+		<key>type</key>
+		<string>Animals</string>
+		<key>description</key>
+		<string>Lobo en antebrazo en colores negros.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sterling Rooster</string>
+		<key>image</key>
+		<string>davidhale4.jpg</string>
+		<key>artist</key>
+		<string>David Hale</string>
+		<key>location</key>
+		<string>Georgia</string>
+		<key>type</key>
+		<string>Animals</string>
+		<key>description</key>
+		<string>Gallo sosteniendo una flor.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tal Salmon</string>
+		<key>image</key>
+		<string>davidhale5.jpg</string>
+		<key>artist</key>
+		<string>David Hale</string>
+		<key>location</key>
+		<string>Georgia</string>
+		<key>type</key>
+		<string>Animals</string>
+		<key>description</key>
+		<string>Salmon con colmillos.  </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bull</string>
+		<key>image</key>
+		<string>ienlevin1.jpg</string>
+		<key>artist</key>
+		<string>Ien Levin</string>
+		<key>location</key>
+		<string>Ucrania</string>
+		<key>type</key>
+		<string>Geometrical</string>
+		<key>description</key>
+		<string>Toro realizado con figuras geométricas en líneas delgadas de color negro.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Flower With Maze</string>
+		<key>image</key>
+		<string>ienlevin2.jpg</string>
+		<key>artist</key>
+		<string>Ien Levin</string>
+		<key>location</key>
+		<string>Ucrania</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Flor con laberinto que sale de las raíces en la espalda.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Trojan Horse</string>
+		<key>image</key>
+		<string>ienlevin3.jpg</string>
+		<key>artist</key>
+		<string>Ien Levin</string>
+		<key>location</key>
+		<string>Ucrania</string>
+		<key>type</key>
+		<string>Geometrical</string>
+		<key>description</key>
+		<string>Cabeza de caballo de Troya en color negro.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Skull With Lines</string>
+		<key>image</key>
+		<string>ienlevin4.jpg</string>
+		<key>artist</key>
+		<string>Ien Levin</string>
+		<key>location</key>
+		<string>Ucrania</string>
+		<key>type</key>
+		<string>Skulls</string>
+		<key>description</key>
+		<string>Calavera con líneas las cuales parecen que realizan un corte.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rose</string>
+		<key>image</key>
+		<string>ienlevin5.jpg</string>
+		<key>artist</key>
+		<string>Ien Levin</string>
+		<key>location</key>
+		<string>Ucrania</string>
+		<key>type</key>
+		<string>Flowers</string>
+		<key>description</key>
+		<string>Flor en color negro con sombras grises. </string>
+	</dict>
+</array>
+</plist>

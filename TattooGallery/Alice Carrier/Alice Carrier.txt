@@ -1,0 +1,34 @@
+name: Skull With Flowers
+image: alicecarrier1.jpg
+artist: Alice Carrier
+location: Oregon
+type: Skulls
+description: Calavera con flores en la pierna.
+
+name: Green Flower
+image: alicecarrier2.jpg
+artist: Alice Carrier
+location: Oregon
+type: Flowers
+description: Flor verde en el brazo con tonos amarillos.
+
+name: Green Fly
+image: alicecarrier3.jpg
+artist: Alice Carrier
+location: Oregon
+type: Animals
+description: Mosca con tonos verdes y grises.
+
+name: Red Rose
+image: alicecarrier4.jpg
+artist: Alice Carrier
+location: Oregon
+type: Flowers
+description: Rosa roja con mariposa amarilla al lado.
+
+name: Dragonfly
+image: alicecarrier5.jpg
+artist: Alice Carrier
+location: Oregon
+type: Animals
+description: Libélula en tonos grises en el brazo.
