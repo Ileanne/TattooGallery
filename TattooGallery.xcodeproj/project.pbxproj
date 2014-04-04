@@ -59,26 +59,6 @@
 		FD59D6BC18EE2C330014460B /* TattooGallery-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67218EE2C320014460B /* TattooGallery-Info.plist */; };
 		FD59D6BD18EE2C330014460B /* TattooInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67418EE2C320014460B /* TattooInfo.plist */; };
 		FD59D6BE18EE2C330014460B /* TattooTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD59D67618EE2C320014460B /* TattooTypeViewController.m */; };
-		FD59D6BF18EE2C330014460B /* fractal1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67918EE2C320014460B /* fractal1.jpg */; };
-		FD59D6C018EE2C330014460B /* fractal2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67A18EE2C320014460B /* fractal2.jpg */; };
-		FD59D6C118EE2C330014460B /* fractal3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67B18EE2C320014460B /* fractal3.jpg */; };
-		FD59D6C218EE2C330014460B /* fractal4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67C18EE2C320014460B /* fractal4.jpg */; };
-		FD59D6C318EE2C330014460B /* fractal5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67D18EE2C320014460B /* fractal5.jpg */; };
-		FD59D6C418EE2C330014460B /* fractal6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D67E18EE2C320014460B /* fractal6.jpg */; };
-		FD59D6C518EE2C330014460B /* nature1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68018EE2C320014460B /* nature1.jpg */; };
-		FD59D6C618EE2C330014460B /* nature10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68118EE2C320014460B /* nature10.jpg */; };
-		FD59D6C718EE2C330014460B /* nature11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68218EE2C320014460B /* nature11.jpg */; };
-		FD59D6C818EE2C330014460B /* nature12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68318EE2C320014460B /* nature12.jpg */; };
-		FD59D6C918EE2C330014460B /* nature13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68418EE2C320014460B /* nature13.jpg */; };
-		FD59D6CA18EE2C330014460B /* nature14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68518EE2C320014460B /* nature14.jpg */; };
-		FD59D6CB18EE2C330014460B /* nature2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68618EE2C320014460B /* nature2.jpg */; };
-		FD59D6CC18EE2C330014460B /* nature3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68718EE2C320014460B /* nature3.jpg */; };
-		FD59D6CD18EE2C330014460B /* nature4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68818EE2C320014460B /* nature4.jpg */; };
-		FD59D6CE18EE2C330014460B /* nature5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68918EE2C320014460B /* nature5.jpg */; };
-		FD59D6CF18EE2C330014460B /* nature6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68A18EE2C330014460B /* nature6.jpg */; };
-		FD59D6D018EE2C330014460B /* nature7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68B18EE2C330014460B /* nature7.jpg */; };
-		FD59D6D118EE2C330014460B /* nature8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68C18EE2C330014460B /* nature8.jpg */; };
-		FD59D6D218EE2C330014460B /* nature9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD59D68D18EE2C330014460B /* nature9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -142,26 +122,6 @@
 		FD59D67418EE2C320014460B /* TattooInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = TattooInfo.plist; path = TattooGallery/TattooInfo.plist; sourceTree = SOURCE_ROOT; };
 		FD59D67518EE2C320014460B /* TattooTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TattooTypeViewController.h; path = TattooGallery/TattooTypeViewController.h; sourceTree = SOURCE_ROOT; };
 		FD59D67618EE2C320014460B /* TattooTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TattooTypeViewController.m; path = TattooGallery/TattooTypeViewController.m; sourceTree = SOURCE_ROOT; };
-		FD59D67918EE2C320014460B /* fractal1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal1.jpg; sourceTree = "<group>"; };
-		FD59D67A18EE2C320014460B /* fractal2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal2.jpg; sourceTree = "<group>"; };
-		FD59D67B18EE2C320014460B /* fractal3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal3.jpg; sourceTree = "<group>"; };
-		FD59D67C18EE2C320014460B /* fractal4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal4.jpg; sourceTree = "<group>"; };
-		FD59D67D18EE2C320014460B /* fractal5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal5.jpg; sourceTree = "<group>"; };
-		FD59D67E18EE2C320014460B /* fractal6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fractal6.jpg; sourceTree = "<group>"; };
-		FD59D68018EE2C320014460B /* nature1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature1.jpg; sourceTree = "<group>"; };
-		FD59D68118EE2C320014460B /* nature10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature10.jpg; sourceTree = "<group>"; };
-		FD59D68218EE2C320014460B /* nature11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature11.jpg; sourceTree = "<group>"; };
-		FD59D68318EE2C320014460B /* nature12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature12.jpg; sourceTree = "<group>"; };
-		FD59D68418EE2C320014460B /* nature13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature13.jpg; sourceTree = "<group>"; };
-		FD59D68518EE2C320014460B /* nature14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature14.jpg; sourceTree = "<group>"; };
-		FD59D68618EE2C320014460B /* nature2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature2.jpg; sourceTree = "<group>"; };
-		FD59D68718EE2C320014460B /* nature3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature3.jpg; sourceTree = "<group>"; };
-		FD59D68818EE2C320014460B /* nature4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature4.jpg; sourceTree = "<group>"; };
-		FD59D68918EE2C320014460B /* nature5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature5.jpg; sourceTree = "<group>"; };
-		FD59D68A18EE2C330014460B /* nature6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature6.jpg; sourceTree = "<group>"; };
-		FD59D68B18EE2C330014460B /* nature7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature7.jpg; sourceTree = "<group>"; };
-		FD59D68C18EE2C330014460B /* nature8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature8.jpg; sourceTree = "<group>"; };
-		FD59D68D18EE2C330014460B /* nature9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,25 +168,25 @@
 		FCF6F386182D602700138A34 /* TattooGallery */ = {
 			isa = PBXGroup;
 			children = (
+				FD59D66D18EE2C320014460B /* main.m */,
 				FD59D63C18EE2C320014460B /* AppDelegate.h */,
 				FD59D63D18EE2C320014460B /* AppDelegate.m */,
-				FD59D63E18EE2C320014460B /* ArtistViewController.h */,
-				FD59D63F18EE2C320014460B /* ArtistViewController.m */,
-				FD59D64018EE2C320014460B /* Chaim Machlev (DotsToLines) */,
-				FD59D64718EE2C320014460B /* David Hale */,
-				FD59D65118EE2C320014460B /* DescriptionViewController.h */,
-				FD59D65218EE2C320014460B /* DescriptionViewController.m */,
-				FD59D65618EE2C320014460B /* Fractal */,
-				FD59D65718EE2C320014460B /* GalleryViewController.h */,
-				FD59D65818EE2C320014460B /* GalleryViewController.m */,
-				FD59D65918EE2C320014460B /* Ien Levin */,
-				FD59D66D18EE2C320014460B /* main.m */,
-				FD59D66F18EE2C320014460B /* Storyboard.storyboard */,
 				FD59D67018EE2C320014460B /* Tattoo.h */,
 				FD59D67118EE2C320014460B /* Tattoo.m */,
+				FD59D65718EE2C320014460B /* GalleryViewController.h */,
+				FD59D65818EE2C320014460B /* GalleryViewController.m */,
 				FD59D67518EE2C320014460B /* TattooTypeViewController.h */,
 				FD59D67618EE2C320014460B /* TattooTypeViewController.m */,
-				FD59D67718EE2C320014460B /* Tribal */,
+				FD59D65118EE2C320014460B /* DescriptionViewController.h */,
+				FD59D65218EE2C320014460B /* DescriptionViewController.m */,
+				FD59D63E18EE2C320014460B /* ArtistViewController.h */,
+				FD59D63F18EE2C320014460B /* ArtistViewController.m */,
+				FD59D66F18EE2C320014460B /* Storyboard.storyboard */,
+				FD59D63518EE2C320014460B /* Alice Carrier */,
+				FD59D64018EE2C320014460B /* Chaim Machlev (DotsToLines) */,
+				FD59D64718EE2C320014460B /* David Hale */,
+				FD59D65918EE2C320014460B /* Ien Levin */,
+				FD59D66018EE2C320014460B /* Images */,
 				FCF6F387182D602700138A34 /* Supporting Files */,
 			);
 			name = TattooGallery;
@@ -242,8 +202,6 @@
 				FD59D64E18EE2C320014460B /* Default-568h@2x.png */,
 				FD59D64F18EE2C320014460B /* Default.png */,
 				FD59D65018EE2C320014460B /* Default@2x.png */,
-				FD59D63518EE2C320014460B /* Alice Carrier */,
-				FD59D66018EE2C320014460B /* Images */,
 				FD59D65318EE2C320014460B /* en.lproj */,
 			);
 			name = "Supporting Files";
@@ -300,14 +258,6 @@
 			path = TattooGallery/en.lproj;
 			sourceTree = SOURCE_ROOT;
 		};
-		FD59D65618EE2C320014460B /* Fractal */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Fractal;
-			path = TattooGallery/Fractal;
-			sourceTree = SOURCE_ROOT;
-		};
 		FD59D65918EE2C320014460B /* Ien Levin */ = {
 			isa = PBXGroup;
 			children = (
@@ -325,7 +275,6 @@
 		FD59D66018EE2C320014460B /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				FD59D66E18EE2C320014460B /* Nature */,
 				FD59D66118EE2C320014460B /* back_btn.png */,
 				FD59D66218EE2C320014460B /* back_btn@2x.png */,
 				FD59D66318EE2C320014460B /* Gestures.png */,
@@ -348,58 +297,6 @@
 				FD59D66C18EE2C320014460B /* ricepaper_@2X.png */,
 			);
 			path = ricepaper;
-			sourceTree = "<group>";
-		};
-		FD59D66E18EE2C320014460B /* Nature */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Nature;
-			path = TattooGallery/Nature;
-			sourceTree = SOURCE_ROOT;
-		};
-		FD59D67718EE2C320014460B /* Tribal */ = {
-			isa = PBXGroup;
-			children = (
-				FD59D67818EE2C320014460B /* Fractal */,
-			);
-			name = Tribal;
-			path = TattooGallery/Tribal;
-			sourceTree = SOURCE_ROOT;
-		};
-		FD59D67818EE2C320014460B /* Fractal */ = {
-			isa = PBXGroup;
-			children = (
-				FD59D67918EE2C320014460B /* fractal1.jpg */,
-				FD59D67A18EE2C320014460B /* fractal2.jpg */,
-				FD59D67B18EE2C320014460B /* fractal3.jpg */,
-				FD59D67C18EE2C320014460B /* fractal4.jpg */,
-				FD59D67D18EE2C320014460B /* fractal5.jpg */,
-				FD59D67E18EE2C320014460B /* fractal6.jpg */,
-				FD59D67F18EE2C320014460B /* Nature */,
-			);
-			path = Fractal;
-			sourceTree = "<group>";
-		};
-		FD59D67F18EE2C320014460B /* Nature */ = {
-			isa = PBXGroup;
-			children = (
-				FD59D68018EE2C320014460B /* nature1.jpg */,
-				FD59D68118EE2C320014460B /* nature10.jpg */,
-				FD59D68218EE2C320014460B /* nature11.jpg */,
-				FD59D68318EE2C320014460B /* nature12.jpg */,
-				FD59D68418EE2C320014460B /* nature13.jpg */,
-				FD59D68518EE2C320014460B /* nature14.jpg */,
-				FD59D68618EE2C320014460B /* nature2.jpg */,
-				FD59D68718EE2C320014460B /* nature3.jpg */,
-				FD59D68818EE2C320014460B /* nature4.jpg */,
-				FD59D68918EE2C320014460B /* nature5.jpg */,
-				FD59D68A18EE2C330014460B /* nature6.jpg */,
-				FD59D68B18EE2C330014460B /* nature7.jpg */,
-				FD59D68C18EE2C330014460B /* nature8.jpg */,
-				FD59D68D18EE2C330014460B /* nature9.jpg */,
-			);
-			path = Nature;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -453,16 +350,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD59D6D018EE2C330014460B /* nature7.jpg in Resources */,
 				FD59D69718EE2C330014460B /* dotstolines1.jpg in Resources */,
 				FD59D6BA18EE2C330014460B /* Storyboard.storyboard in Resources */,
 				FD59D69F18EE2C330014460B /* davidhale3.jpg in Resources */,
 				FD59D6B818EE2C330014460B /* ricepaper_@2X.png in Resources */,
-				FD59D6CA18EE2C330014460B /* nature14.jpg in Resources */,
-				FD59D6C818EE2C330014460B /* nature12.jpg in Resources */,
-				FD59D6C618EE2C330014460B /* nature10.jpg in Resources */,
 				FD59D6A918EE2C330014460B /* ienlevin1.jpg in Resources */,
-				FD59D6D218EE2C330014460B /* nature9.jpg in Resources */,
 				FD59D6A818EE2C330014460B /* Ien Levin.txt in Resources */,
 				FD59D6BC18EE2C330014460B /* TattooGallery-Info.plist in Resources */,
 				FD59D6A618EE2C330014460B /* InfoPlist.strings in Resources */,
@@ -475,27 +367,19 @@
 				FD59D6AF18EE2C330014460B /* back_btn@2x.png in Resources */,
 				FD59D68E18EE2C330014460B /* Alice Carrier.txt in Resources */,
 				FD59D6B218EE2C330014460B /* nav_bg@2x.png in Resources */,
-				FD59D6C418EE2C330014460B /* fractal6.jpg in Resources */,
-				FD59D6C218EE2C330014460B /* fractal4.jpg in Resources */,
 				FD59D6AD18EE2C330014460B /* ienlevin5.jpg in Resources */,
 				FD59D69A18EE2C330014460B /* dotstolines4.jpg in Resources */,
 				FD59D6A018EE2C330014460B /* davidhale4.jpg in Resources */,
-				FD59D6BF18EE2C330014460B /* fractal1.jpg in Resources */,
 				FD59D69818EE2C330014460B /* dotstolines2.jpg in Resources */,
 				FD59D6B418EE2C330014460B /* nav_bg_ios7@2x.png in Resources */,
 				FD59D69018EE2C330014460B /* alicecarrier2.jpg in Resources */,
 				FD59D6A418EE2C330014460B /* Default@2x.png in Resources */,
 				FD59D6A118EE2C330014460B /* davidhale5.jpg in Resources */,
 				FD59D69618EE2C330014460B /* Chaim Machlev.txt in Resources */,
-				FD59D6C118EE2C330014460B /* fractal3.jpg in Resources */,
 				FD59D6BD18EE2C330014460B /* TattooInfo.plist in Resources */,
-				FD59D6C518EE2C330014460B /* nature1.jpg in Resources */,
 				FD59D6AC18EE2C330014460B /* ienlevin4.jpg in Resources */,
-				FD59D6C918EE2C330014460B /* nature13.jpg in Resources */,
-				FD59D6CC18EE2C330014460B /* nature3.jpg in Resources */,
 				FD59D6AE18EE2C330014460B /* back_btn.png in Resources */,
 				FD59D69E18EE2C330014460B /* davidhale2.jpg in Resources */,
-				FD59D6C318EE2C330014460B /* fractal5.jpg in Resources */,
 				FD59D6AB18EE2C330014460B /* ienlevin3.jpg in Resources */,
 				FD59D69B18EE2C330014460B /* dotstolines5.jpg in Resources */,
 				FD59D6A218EE2C330014460B /* Default-568h@2x.png in Resources */,
@@ -504,15 +388,8 @@
 				FD59D69318EE2C330014460B /* alicecarrier5.jpg in Resources */,
 				FD59D6A318EE2C330014460B /* Default.png in Resources */,
 				FD59D69D18EE2C330014460B /* davidhale1.jpg in Resources */,
-				FD59D6CE18EE2C330014460B /* nature5.jpg in Resources */,
-				FD59D6C018EE2C330014460B /* fractal2.jpg in Resources */,
-				FD59D6CD18EE2C330014460B /* nature4.jpg in Resources */,
-				FD59D6C718EE2C330014460B /* nature11.jpg in Resources */,
 				FD59D69218EE2C330014460B /* alicecarrier4.jpg in Resources */,
-				FD59D6CF18EE2C330014460B /* nature6.jpg in Resources */,
-				FD59D6D118EE2C330014460B /* nature8.jpg in Resources */,
 				FD59D69C18EE2C330014460B /* David Hale.txt in Resources */,
-				FD59D6CB18EE2C330014460B /* nature2.jpg in Resources */,
 				FD59D6B518EE2C330014460B /* Players.png in Resources */,
 				FD59D6B018EE2C330014460B /* Gestures.png in Resources */,
 			);
