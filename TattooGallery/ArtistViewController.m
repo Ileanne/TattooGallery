@@ -9,31 +9,95 @@
 #import "ArtistViewController.h"
 #import "Tattoo.h"
 
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
 @interface ArtistViewController ()
 
 @end
 
-@implementation ArtistViewController
+@implementation ArtistViewController{
 
-- (id)initWithStyle:(UITableViewStyle)style
-{
-    self = [super initWithStyle:style];
-    if (self) {
-        // Custom initialization
-    }
-    return self;
+    NSArray *sectionArtistArrays;
 }
 
-- (void)viewDidLoad
-{
+#pragma mark Life Cycle
+
+- (void)viewDidLoad{
+    
     [super viewDidLoad];
+    
+    //NSLog(@"View Did Load");
+    
+    self.tableView.backgroundView = nil;
+    
+    self.tableView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"ricepaper.png"]];
+    
+    UILabel * titleView = [[UILabel alloc] initWithFrame:CGRectZero];
+    titleView.text = @"Artista";
+    titleView.backgroundColor = [UIColor clearColor];
+    titleView.font = [UIFont boldSystemFontOfSize:20.0];
+    titleView.shadowColor = [UIColor colorWithWhite:1.0 alpha:1.0];
+    titleView.shadowOffset = CGSizeMake(0.0f, 1.0f);
+    titleView.textColor = UIColorFromRGB(0x5C0404);
+    self.navigationItem.titleView = titleView;
+    [titleView sizeToFit];
+    
+    NSMutableArray *auxArray = [NSMutableArray arrayWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"TattooInfo" ofType:@"plist"]];
+    
+    NSMutableArray *alice = [NSMutableArray array];
+    NSMutableArray *chaim = [NSMutableArray array];
+    NSMutableArray *david = [NSMutableArray array];
+    NSMutableArray *ien = [NSMutableArray array];
+    
+    for (NSDictionary *dictionary in auxArray) {
+        
+        NSString *type = [dictionary objectForKey:@"artist"];
+        
+        if ([type isEqualToString:@"Alice Carrier"]) {
+            
+            [alice addObject:dictionary];
+        }
+        else if ([type isEqualToString:@"Chaim Machlev (DotsToLines)"]){
+            
+            [chaim addObject:dictionary];
+        }
+        else if ([type isEqualToString:@"David Hale"]){
+            
+            [david addObject:dictionary];
+        }
+        else if ([type isEqualToString:@"Ien Levin"]){
+            
+            [ien addObject:dictionary];
+        }
 
-    // Uncomment the following line to preserve selection between presentations.
-    // self.clearsSelectionOnViewWillAppear = NO;
- 
-    // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
-    // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    }
+    
+    NSLog(@"%@",alice);
+    NSLog(@"%@",chaim);
+    NSLog(@"%@",david);
+    NSLog(@"%@",ien);
+    
+    sectionArtistArrays = [NSMutableArray arrayWithObjects:alice, chaim, ien, david,nil];
+
+
 }
+//
+//-(void)viewWillAppear:(BOOL)animated{
+//    
+//    [super viewWillAppear:animated];
+//    
+//    NSLog(@"View Will Appear");
+//}
+//
+//-(void)viewDidAppear:(BOOL)animated{
+//    
+//    NSLog(@"View Did Appear");
+//}
+//
+//-(void)viewWillDisappear:(BOOL)animated{
+//    
+//    NSLog(@"View will disappear");
+//}
 
 - (void)didReceiveMemoryWarning
 {
@@ -45,22 +109,26 @@
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
-#warning Potentially incomplete method implementation.
-    // Return the number of sections.
-    return 0;
+
+    return 1;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return 0;
+    return sectionArtistArrays.count;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    static NSString *CellIdentifier = @"Cell";
+    static NSString *CellIdentifier = @"artistCell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
-    // Configure the cell...
+    //NSMutableArray *artistIndex = sectionArtistArrays[indexPath.row];
+    NSMutableArray *artistAtIndex = [sectionArtistArrays objectAtIndex:indexPath.row];
+    NSDictionary *artistDictionary = [artistAtIndex lastObject];
+    
+    cell.textLabel.text = [artistDictionary objectForKey:@"artist"];
+    cell.detailTextLabel.text = [artistDictionary objectForKey:@"location"];
     
     return cell;
 }

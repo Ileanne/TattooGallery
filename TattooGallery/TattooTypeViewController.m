@@ -79,12 +79,12 @@
         }
     }
 
-    NSLog(@"%@",skullsArray);
-    NSLog(@"%@",flowersArray);
-    NSLog(@"%@",animalsArray);
-    NSLog(@"%@",geometricalArray);
-    NSLog(@"%@",linesArray);
-    NSLog(@"%@",fractalArray);
+    //NSLog(@"%@",skullsArray);
+    //NSLog(@"%@",flowersArray);
+    //NSLog(@"%@",animalsArray);
+    //NSLog(@"%@",geometricalArray);
+    //NSLog(@"%@",linesArray);
+    //NSLog(@"%@",fractalArray);
     
     
     /*for (int i=0; i<6; i++) {
