@@ -66,7 +66,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Artistas" id="i3d-ta-afN"/>
                     <connections>
-                        <segue destination="MhN-hA-WJK" kind="push" id="l75-Jc-auI"/>
+                        <segue destination="MhN-hA-WJK" kind="push" identifier="showArtist" id="l75-Jc-auI"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Yqn-Lr-9mD" userLabel="First Responder" sceneMemberID="firstResponder"/>

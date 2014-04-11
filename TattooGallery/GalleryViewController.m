@@ -26,7 +26,15 @@
     NSDictionary* dictionary = [self.typeArray objectAtIndex:0];
     
     UILabel * titleView = [[UILabel alloc] initWithFrame:CGRectZero];
-    titleView.text = [dictionary objectForKey:@"type"];
+    
+    if ([self comesFromArtist] == YES) {
+        titleView.text = [dictionary objectForKey:@"artist"];
+    }
+    else{
+        titleView.text = [dictionary objectForKey:@"type"];
+    }
+    
+   
     titleView.backgroundColor = [UIColor clearColor];
     titleView.font = [UIFont boldSystemFontOfSize:20.0];
     titleView.shadowColor = [UIColor colorWithWhite:1.0 alpha:1.0];
@@ -34,6 +42,8 @@
     titleView.textColor = UIColorFromRGB(0x5C0404);
     self.navigationItem.titleView = titleView;
     [titleView sizeToFit];
+    
+    
     
     
     self.collectionView.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"ricepaper.png"]];

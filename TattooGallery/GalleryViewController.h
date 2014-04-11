@@ -11,5 +11,6 @@
 @interface GalleryViewController : UICollectionViewController
 
 @property (nonatomic, strong) NSMutableArray *typeArray;
+@property (nonatomic, assign) BOOL comesFromArtist;
 
 @end
